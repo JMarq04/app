@@ -1,0 +1,17 @@
+/* imagen */
+
+.center-wrapper {
+	text-align: center;
+}
+
+.center-wrapper * {
+	margin: 0 auto;
+}
+
+.textoCompleto {
+	white-space: normal!important;
+}
+
+h3{
+	font-size: 12px!important;
+}
